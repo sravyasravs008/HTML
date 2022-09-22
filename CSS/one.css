@@ -1,0 +1,28 @@
+h1{
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+h2{
+    color: crimson;
+    font-style: italic;
+    font-size: large;
+}
+.class{
+    color:darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.hello{
+    color:brown;
+    font-display:unset;
+    background-color: black;
+}
+ #start{
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+#stop{
+    color:coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
